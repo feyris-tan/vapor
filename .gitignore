@@ -1,0 +1,13 @@
+*.suo
+.idea
+packages
+bin/
+obj/
+Ionic.Zip.xml
+
+out/
+target/
+*.jar
+*.class
+*.war
+*.iml
